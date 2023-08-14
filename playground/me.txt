@@ -1,0 +1,5 @@
+{{#Chitrashreehr}
+Name: Chitrashree H R
+Skills: HTML, CSS, JS ,jQuery
+Email: chitrashreehr980@gmail.com
+{{/Chitrashreehr}}
